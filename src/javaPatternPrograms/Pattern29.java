@@ -1,4 +1,4 @@
-package javaPatternPrograms;
+ package javaPatternPrograms;
 
 /**
 

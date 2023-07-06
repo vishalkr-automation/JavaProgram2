@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class DuplicateNumber {
 	
-	@Test(enabled = false)
+	@Test(enabled = true)
 	public void f() {
 		int[] my_array = { 1, 2, 5, 5, 6, 6, 7, 2,7};
 
@@ -18,7 +18,7 @@ public class DuplicateNumber {
 	}
 	
 	
-	@Test(enabled = false)
+	@Test(enabled = true)
 	public void f1() {
 		String str = "w3schools";
 
@@ -37,3 +37,49 @@ public class DuplicateNumber {
 	
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

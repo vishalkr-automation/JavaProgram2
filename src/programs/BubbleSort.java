@@ -21,7 +21,7 @@ public class BubbleSort {
 		
 		for(int i=0; i<(n-1); i++){
 			for(int j=0; j<(n-i-1); j++){
-				if(array[j]>array[j+1]){      /* For descending order use < */
+				if(array[j]>array[j+1]){      /* For ascending order use < */
 					swap=array[j];
 					array[j]=array[j+1];
 					array[j+1]=swap;

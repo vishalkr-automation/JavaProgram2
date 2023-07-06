@@ -17,7 +17,7 @@ public class ArithmeticSeries_1 {
 
 		int n=5; //limit
 		int d=3; // Common diffrence
-		int a=2;
+		int a=1;
 		
 		for(int i=1; i<=n; i++){
 			System.out.print(" "+ a);

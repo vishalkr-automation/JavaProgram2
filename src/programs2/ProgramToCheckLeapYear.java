@@ -14,7 +14,7 @@ public class ProgramToCheckLeapYear {
 	@Test
 	public void f(){
 		
-		int year = 1900;
+		int year = 2016;
         boolean leap = false;
         if(year % 4 == 0)
         {

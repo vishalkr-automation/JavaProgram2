@@ -1,4 +1,4 @@
-package programs2;
+  package programs2;
 
 import org.testng.annotations.Test;
 
@@ -19,7 +19,7 @@ public class CountNumberOfDigitsInInteger {
 
 	}
 
-	@Test(enabled=false)
+	@Test(enabled=true)
 	public void f1() {
 		int count = 0, num = 3452;
        

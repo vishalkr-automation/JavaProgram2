@@ -44,6 +44,6 @@ public class PrintConvertDecimalToRomanNumber {
 	}
 	
 	public static void main(String... args){
-		System.out.println(toRoman(4001));
-	}
+		System.out.println(toRoman(20));
+ 	}
 }

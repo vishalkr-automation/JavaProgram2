@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31" started-at="2020-01-08T02:53:13Z" finished-at="2020-01-08T02:53:13Z">
+  <suite name="Default suite" duration-ms="32" started-at="2023-05-23T07:24:32 IST" finished-at="2023-05-23T07:24:32 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31" started-at="2020-01-08T02:53:13Z" finished-at="2020-01-08T02:53:13Z">
-      <class name="stringprograms2.FindDuplicateChractersFromAString">
-        <test-method status="PASS" signature="findIt()[pri:0, instance:stringprograms2.FindDuplicateChractersFromAString@3ac42916]" name="findIt" duration-ms="16" started-at="2020-01-08T08:23:13Z" finished-at="2020-01-08T08:23:13Z">
+    <test name="Default test" duration-ms="32" started-at="2023-05-23T07:24:32 IST" finished-at="2023-05-23T07:24:32 IST">
+      <class name="programs2.CountNumberOfDigitsInInteger">
+        <test-method status="PASS" signature="f()[pri:0, instance:programs2.CountNumberOfDigitsInInteger@4e08711f]" name="f" duration-ms="5" started-at="2023-05-23T07:24:32 IST" finished-at="2023-05-23T07:24:32 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- findIt -->
-      </class> <!-- stringprograms2.FindDuplicateChractersFromAString -->
+        </test-method> <!-- f -->
+      </class> <!-- programs2.CountNumberOfDigitsInInteger -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

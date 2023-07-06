@@ -1,12 +1,12 @@
-package programs2;
+ package programs2;
 
 public class ProgramConvertRoamnToDecimal {
 	
-	 public static void romanToDecimal(java.lang.String romanNumber) {
+	 public static void romanToDecimal(String romanNumber) {
 	        int decimal = 0;
 	        int lastNumber = 0;
 	        String romanNumeral = romanNumber.toUpperCase();
-	        for (int x = romanNumeral.length() - 1; x >= 0 ; x--) {
+	        for (int x = romanNumeral.length() - 1; x  >= 0 ; x--) {
 	            char convertToDecimal = romanNumeral.charAt(x);
 
 	            switch (convertToDecimal) {
@@ -58,7 +58,7 @@ public class ProgramConvertRoamnToDecimal {
 	    }
 
 	    public static void main(String args[]) {
-	        romanToDecimal("IIXV");
+	        romanToDecimal("CM");
 	    }
 
 }

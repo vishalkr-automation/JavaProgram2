@@ -1,5 +1,12 @@
 package javaPatternPrograms;
 
+/* A
+   BB
+  CCC
+ DDDD
+EEEEE
+*/
+
 public class Pattern27 {
 
 	public static void main(String[] args) {
